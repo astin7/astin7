@@ -7,4 +7,5 @@ I am a Sophomore Computer Science & Mathematics students at Rutgers University w
 ## Contact 
 Feel free to reach out to me if you want to collaborate on a project or have a chat! I'm always open to making new connections and explore the different fields of technology.
 
-[![Portfolio](vecteezy_portfolio-icon-for-your-website-mobile-presentation-and_20816485.jpg)](https://astinhuynh.com/) [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/astin-huynh-3a4a24352/)
+<img src="assets/portfolio.svg" width="24" style="vertical-align: middle;" />
+[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/astin-huynh-3a4a24352/)
