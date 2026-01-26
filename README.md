@@ -1,4 +1,4 @@
-# Hey, I'm Astin
+# Hey, I'm Astin 👋
 I am a Sophomore Computer Science & Mathematics students at Rutgers University with interests in creating software with regards to full-stack applications, AI/ML, and fintech.
 
 ## Current Projects
