@@ -2,7 +2,8 @@
 I am a Sophomore Computer Science & Mathematics students at Rutgers University with interests in creating software with regards to full-stack applications, AI/ML, and fintech.
 
 ## Current Projects
-* N/A
+* Mamba Scan Cuda Project
+* AI-powered Bot to go along with a Full-stack application 
   
 ## Contact 
 Feel free to reach out to me if you want to collaborate on a project or have a chat! I'm always open to making new connections and explore the different fields of technology.
